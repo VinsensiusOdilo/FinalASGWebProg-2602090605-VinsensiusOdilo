@@ -1,0 +1,135 @@
+.profile-picture-container{
+    align-items: center;
+}
+
+.profile-picture{
+    width: 85px;
+    height: 85px;
+}
+
+.person-name{
+    margin-left: 1.5rem;
+    font-weight: bold;
+    font-size: 24px; 
+    align-items: top;  
+}
+
+.person-title{
+    margin-left: 1.5rem;
+    color: gray;
+}
+
+.content-container{
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 0.5rem;
+    margin-right: 2rem;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.action-container{
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    text-align: justify;
+}
+
+.like-btn{
+    padding: 0;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.my-profile-pic{
+    width: 150px;
+    height: 150px;
+}
+
+.my-name{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.my-job{
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+}
+
+.my-loc{
+    text-align: center;
+    font-size: 12px;
+    color: gray;
+}
+
+.my-profile{
+    padding-right: 3rem;
+    padding-left: 3rem;
+    margin-right: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border: 1px solid lightgray;
+    justify-content: center;
+    border-radius: 20px;
+    height: fit-content;
+}
+
+.friend-list{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border: 1px solid lightgray;
+    justify-content: center;
+    border-radius: 20px;
+    height: fit-content;
+}
+
+.friend-pic{
+    width: 85px;
+    height: 85px;
+}
+
+.nav-link{
+    text-align: center;
+    font-size: 18px;
+}
+
+.login-container{
+    border: 1px gray;
+    border-radius: 30px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.notif-container{
+    border: 1px solid gray;
+    border-radius: 30px;
+    padding: 2rem;
+}
+
+.title{
+    padding-bottom: 0.5rem;
+    border-bottom: 1px gray solid;
+}
+
+.notif{
+    padding-bottom: 0.5rem;
+    border-bottom: 1px lightgray solid;
+}
+
+.notif-desc{
+    margin-left: 1.5rem;
+    font-size: 16px;
+}
+
+.friend-container{
+    border: 1px gray solid;
+    border-radius: 30px;
+    padding: 2rem;
+}
